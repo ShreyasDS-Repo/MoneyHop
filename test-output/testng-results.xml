@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14825" started-at="2021-04-17T07:08:08Z" finished-at="2021-04-17T07:08:23Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14825" started-at="2021-04-17T07:08:08Z" finished-at="2021-04-17T07:08:23Z">
+      <class name="Hop">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:Hop@7c0e2abd]" name="setUp" is-config="true" duration-ms="10347" started-at="2021-04-17T12:38:08Z" finished-at="2021-04-17T12:38:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="Test()[pri:0, instance:Hop@7c0e2abd]" name="Test" duration-ms="3721" started-at="2021-04-17T12:38:18Z" finished-at="2021-04-17T12:38:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Hop@7c0e2abd]" name="tearDown" is-config="true" duration-ms="736" started-at="2021-04-17T12:38:22Z" finished-at="2021-04-17T12:38:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Hop -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
